@@ -1,0 +1,13 @@
+body {
+  background-color: #1A3B29;
+  color: #EFE9CE;
+}
+
+header {
+       display: inline-block;
+       width: auto;
+       text-align: center;
+       white-space: normal;
+       word-break: break-word;
+       padding: 25% 25% 25% 25%;
+}

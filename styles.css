@@ -1,13 +1,16 @@
 body {
-  background-color: #1A3B29;
-  color: #EFE9CE;
+	background-color: #1a3b29;
+	color: #efe9ce;
 }
 
 header {
-       display: inline-block;
-       width: auto;
-       text-align: center;
-       white-space: normal;
-       word-break: break-word;
-       padding: 25% 25% 25% 25%;
+	display: inline-block;
+	width: auto;
+	text-align: center;
+	padding: 25% 25% 25% 25%;
+	display: flex;
+	justify-content: center;
+}
+h1 {
+  	font-family: 'Lora', serif;
 }

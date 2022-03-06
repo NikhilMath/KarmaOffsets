@@ -4,12 +4,9 @@ body {
 }
 
 header {
-	display: inline-block;
-	width: auto;
 	text-align: center;
 	padding: 25% 25% 25% 25%;
 	display: flex;
-	justify-content: center;
 }
 h1 {
   	font-family: 'Lora', serif;

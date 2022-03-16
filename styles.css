@@ -12,6 +12,6 @@ h1 {
   	font-family: 'Lora', serif;
 }
 
-.text-responsive {
-  font-size: calc(100% + 1vw + 1vh);
+.test {
+	border: solid 1px;
 }
